@@ -19,7 +19,7 @@ You need Webex log text file as a input and class time is based on Gachon Uni. s
 1. In Powershell or Terminal Run the python code with this format
 2. class time is based on like this
 
-1st class : 09:00 am 
+ex)1st class : 09:00 am ,  
 A class : 09:30 am
 
 ```python
