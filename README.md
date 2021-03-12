@@ -15,7 +15,7 @@ You need Webex log text file as a input and class time is based on Gachon Uni. s
 
 ---------------------------
 
-##Code Usage
+## Code Usage
 1. In Powershell or Terminal Run the python code with this format
 2. class time is based on like this
 
@@ -34,7 +34,7 @@ python attendance.py -i mobileProgramming_1_class.txt -c 3
 After you received excel file you have to check the absent student manually (logic is not perfect)
 
 ----------------
-##Attendance Standard
+## Attendance Standard
 1. +- 5minutes from first class start time check true
 2. +- 5minutes from last class end time check true
 3. both 2 value is true  -> attend 
