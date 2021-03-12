@@ -5,6 +5,14 @@ This python code is use to check student attendence based on chat log
 
 You need Webex log text file as a input and class time is based on Gachon Uni. system
 
+----------------------------
+## Required Library
+1. pandas
+2. numpy
+3. getopt
+4. openpyxl
+5. etc
+
 ---------------------------
 
 ##Code Usage
