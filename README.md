@@ -9,6 +9,7 @@ You need Webex log text file as a input and class time is based on Gachon Uni. s
 
 ##Code Usage
 1. In Powershell or Terminal Run the python code with this format
+
 '''python
 
 python attendence.py -i <inputfile> -c <classtime>
