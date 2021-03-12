@@ -12,4 +12,6 @@ You need Webex log text file as a input and class time is based on Gachon Uni. s
     
     python attendence.py -i <inputfile> -c <classtime>
     
+    
+    
   
