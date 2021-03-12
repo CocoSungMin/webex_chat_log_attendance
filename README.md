@@ -1,7 +1,7 @@
-# webex_chat_log_attandence
+# webex_chat_log_attendance
 
 --------------------------
-This python code is use to check student attendence based on chat log
+This python code is use to check student attendance based on chat log
 
 You need Webex log text file as a input and class time is based on Gachon Uni. system
 
@@ -23,12 +23,12 @@ You need Webex log text file as a input and class time is based on Gachon Uni. s
 A class : 09:30 am
 
 ```python
-python attendence.py -i <inputfile> -c <classtime>
+python attendance.py -i <inputfile> -c <classtime>
 ```
 
 Order example : 
 ```python
-python attendence.py -i mobileProgramming_1_class.txt -c 3
+python attendance.py -i mobileProgramming_1_class.txt -c 3
 ```
 
 After you received excel file you have to check the absent student manually (logic is not perfect)
