@@ -1,4 +1,4 @@
-# webex_chat_log_attendence
+# webex_chat_log_attandence
 
 --------------------------
 This python code is use to check student attendence based on chat log
@@ -33,6 +33,13 @@ python attendence.py -i mobileProgramming_1_class.txt -c 3
 
 After you received excel file you have to check the absent student manually (logic is not perfect)
 
+----------------
+##Attendance Standard
+1. +- 5minutes from first class start time check true
+2. +- 5minutes from last class end time check true
+3. both 2 value is true  -> attend 
+4. either 1 value is false -> tardy
+5. both value is false -> absent
 ----------------
 This Program belongs to VMR-LAB in Gachon Uni.
 
