@@ -23,6 +23,8 @@ Order example :
 python attendence.py -i mobileProgramming_1_class.txt -c 3
 ```
 
+After you received excel file you have to check the absent student manually (logic is not perfect)
+
 ----------------
 This Program belongs to VMR-LAB in Gachon Uni.
 
