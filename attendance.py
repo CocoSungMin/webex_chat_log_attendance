@@ -186,8 +186,6 @@ def exportAsExecel(date,attd) :
         temp.append(i[3])
         final_attd.append(temp)
 
-    for i in final_attd:
-        print(i)
     atd = pd.DataFrame(final_attd,columns=['Student Number','Student','first class','Second class','attendance'])
     print(atd.head())
     atd.to_excel(date+'-Attendence.xlsx' , sheet_name = 'Sheet1')
